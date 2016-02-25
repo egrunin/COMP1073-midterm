@@ -19,8 +19,8 @@ console.log("App Started...")
 		
 		submitButton.addEventListener("click", function(event){
             event.preventDefault();
-            console.log("First name: " + firstname.value);
-            console.log("Last name: " + lastname.value);
+            console.log("First name: " + firstName.value);
+            console.log("Last name: " + lastName.value);
             console.log("Email: " + email.value);
             console.log("Comments: " + comments.value);
         });  
