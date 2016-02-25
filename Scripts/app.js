@@ -5,7 +5,7 @@
 
 "use strict";
 // setup your IIFE (Immediately Invoked Function Expression)
-var travelReport = (function () {
+(function () {
 
 console.log("App Started...")
 
